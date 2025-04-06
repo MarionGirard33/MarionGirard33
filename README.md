@@ -63,30 +63,30 @@ Passionate about development, I decided to change careers after several years wo
 
 ---
 
-## 📊 Conception & Diagrammes UML
+## 📊 Design & UML Diagrams
 
-Pour mieux comprendre la conception de mes projets, voici quelques diagrammes UML utilisés :
+To better understand the design of my projects, here are some UML diagrams used:
 
-- **Diagramme de cas d'utilisation (Use-Case)**
+- **Use Case Diagram**
 
   ![Diagramme de cas d'utilisation](./assets/use-cases_diagram.png)  
-  _Ce diagramme illustre les interactions entre les acteurs et le système._
+  _This diagram illustrates the interactions between actors and the system._
 
-- **Diagramme de séquence**
+- **Sequence Diagram**
 
   ![Diagramme de séquence](./assets/sequential_diagram.png)  
-  _Ce diagramme décrit l'échange de messages entre les composants dans le temps._
+  _This diagram describes the exchange of messages between components over time._
 
-- **Diagramme d'activité**
+- **Activity Diagram**
 
   ![Diagramme d'activité](./assets/activity_diagram.png)  
-  _Ce diagramme montre les flux de travail et les processus métiers._
+  _This diagram shows the workflows and business processes._
 
-- **Diagramme ERD (Entité-Relation)**
+- **ERD (Entity-Relationship Diagram)**
 
   ![Diagramme ERD](./assets/erd_diagram.png)  
-  _Ce diagramme modélise les entités et leurs relations dans la base de données._
+  _This diagram models the entities and their relationships in the database._
 
-- **Diagramme d'Architecture**  
+- **Architecture Diagram**  
   ![Diagramme d'Architecture](./assets/Architecture-Microservices.png)  
-  _Vue d'ensemble de l'architecture du système._
+  _Overview of the system's architecture._
