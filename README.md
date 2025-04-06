@@ -22,6 +22,7 @@ Passionate about development, I decided to change careers after several years wo
 ---
 
 🌟 I first took a distance-learning course in 2022-2023, validated by a Level 5 RNCP title in Web Integration Developer:
+
 - Creation of a website from a Figma or Photoshop model
 - Creation of CSS animations to liven up a web page
 - Page optimization, performance, SEO, accessibility
@@ -36,6 +37,7 @@ Passionate about development, I decided to change careers after several years wo
 ## ⚡ Technologies
 
 ### Web
+
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
@@ -50,39 +52,41 @@ Passionate about development, I decided to change careers after several years wo
 ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
-
 ### UX/UI
+
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 
 ### Management methodologies and tools
+
 ![Scrum](https://img.shields.io/badge/-Scrum-6DB33F?style=flat-square&logo=scrum&logoColor=white)
 ![Jira](https://img.shields.io/badge/-Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
 
+---
 
 ## 📊 Conception & Diagrammes UML
 
 Pour mieux comprendre la conception de mes projets, voici quelques diagrammes UML utilisés :
 
 - **Diagramme de cas d'utilisation (Use-Case)**
-  
-  ![Diagramme de cas d'utilisation]()  
-  *Ce diagramme illustre les interactions entre les acteurs et le système.*
+
+  ![Diagramme de cas d'utilisation](./assets/use-cases_diagram.png)  
+  _Ce diagramme illustre les interactions entre les acteurs et le système._
 
 - **Diagramme de séquence**
 
-  ![Diagramme de séquence]()  
-  *Ce diagramme décrit l'échange de messages entre les composants dans le temps.*
+  ![Diagramme de séquence](./assets/sequential_diagram.png)  
+  _Ce diagramme décrit l'échange de messages entre les composants dans le temps._
 
 - **Diagramme d'activité**
 
-  ![Diagramme d'activité]()  
-  *Ce diagramme montre les flux de travail et les processus métiers.*
+  ![Diagramme d'activité](./assets/activity_diagram.png)  
+  _Ce diagramme montre les flux de travail et les processus métiers._
 
 - **Diagramme ERD (Entité-Relation)**
-  
-  ![Diagramme ERD]()  
-  *Ce diagramme modélise les entités et leurs relations dans la base de données.*
+
+  ![Diagramme ERD](./assets/erd_diagram.png)  
+  _Ce diagramme modélise les entités et leurs relations dans la base de données._
 
 - **Diagramme d'Architecture**  
-  ![Diagramme d'Architecture]()  
-  *Vue d'ensemble de l'architecture du système.*
+  ![Diagramme d'Architecture](./assets/Architecture-Microservices.png)  
+  _Vue d'ensemble de l'architecture du système._
